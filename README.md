@@ -18,5 +18,7 @@ simply update with your data this variable:
 
 Then simply run "python amazon_scraping.py"
 A json file will be created (data_scrap_amz.json)
+
+Note: if proxies from free-proxy-list are not available the script use a list of proxies. You should consider to update it to a fresh working proxies list.
   
 Enjoy.
